@@ -1,4 +1,4 @@
 {
-    "packages/pkg_a": 1.0.0,
-    "packages/pkg_b": 1.0.0
+	"packages/pkg_a": "1.0.0",
+	"packages/pkg_b": "1.0.0"
 }
