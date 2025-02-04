@@ -1,0 +1,17 @@
+lockfileVersion: 5.4
+
+importers:
+
+  .:
+    specifiers:
+      pkg_a: workspace:*
+      pkg_b: workspace:*
+    devDependencies:
+      pkg_a: link:packages/pkg_a
+      pkg_b: link:packages/pkg_b
+
+  packages/pkg_a:
+    specifiers: {}
+
+  packages/pkg_b:
+    specifiers: {}
