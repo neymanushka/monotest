@@ -1,13 +1,12 @@
 {
   "name": "monotest",
   "version": "1.0.0",
-  "description": "",
+  "description": "test",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
   "devDependencies": {
     "pkg_a": "workspace:*",
     "pkg_b": "workspace:*"
