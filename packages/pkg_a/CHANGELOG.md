@@ -1,5 +1,16 @@
 # Changelog
 
+## [2.0.0](https://github.com/neymanushka/monotest/compare/pkg_a-v1.1.0...pkg_a-v2.0.0) (2025-02-09)
+
+
+### ⚠ BREAKING CHANGES
+
+* **pkg_a:** update a major
+
+### Features
+
+* **pkg_a:** update a major ([0868cab](https://github.com/neymanushka/monotest/commit/0868cab921cfcfd7541b06456133c230566fe151))
+
 ## [1.1.0](https://github.com/neymanushka/monotest/compare/pkg_a-v1.0.0...pkg_a-v1.1.0) (2025-02-04)
 
 
