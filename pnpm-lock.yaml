@@ -6,9 +6,11 @@ importers:
     specifiers:
       pkg_a: workspace:*
       pkg_b: workspace:*
+      pkg_c: workspace:*
     devDependencies:
       pkg_a: link:packages/pkg_a
       pkg_b: link:packages/pkg_b
+      pkg_c: link:packages/pkg_c
 
   packages/pkg_a:
     specifiers: {}

@@ -8,6 +8,7 @@
   },
   "keywords": [],
   "devDependencies": {
+    "pkg_c": "workspace:*",
     "pkg_a": "workspace:*",
     "pkg_b": "workspace:*"
   },
