@@ -1,4 +1,4 @@
-const b=5;
+const b=1;
 
 
 export default [1,2,3];
