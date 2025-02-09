@@ -15,3 +15,9 @@ importers:
 
   packages/pkg_b:
     specifiers: {}
+
+  packages/pkg_c:
+    specifiers:
+      pkg_b: workspace:*
+    devDependencies:
+      pkg_b: link:../pkg_b
