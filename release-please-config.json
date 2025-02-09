@@ -11,6 +11,11 @@
       "release-type": "node",
       "prerelease": false,
       "commit-search-depth": 50
+    },
+    "packages/pkg_c": {
+      "release-type": "node",
+      "prerelease": false,
+      "commit-search-depth": 50
     }
   },
   "$schema": "https://raw.githubusercontent.com/googleapis/release-please/main/schemas/config.json"
