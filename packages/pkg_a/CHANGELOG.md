@@ -1,5 +1,13 @@
 # Changelog
 
+## [2.0.2](https://github.com/neymanushka/monotest/compare/pkg_a-v2.0.1...pkg_a-v2.0.2) (2025-07-30)
+
+
+### Bug Fixes
+
+* Update index.js ([773bdc1](https://github.com/neymanushka/monotest/commit/773bdc1000c4f83211f275e6052657fb242cf719))
+* Update index.js ([ebcc76f](https://github.com/neymanushka/monotest/commit/ebcc76f89ed1354874f572b3e8547fea5c03f20e))
+
 ## [2.0.1](https://github.com/neymanushka/monotest/compare/pkg_a-v2.0.0...pkg_a-v2.0.1) (2025-02-09)
 
 
