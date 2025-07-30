@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.0.3](https://github.com/neymanushka/monotest/compare/pkg_a-v2.0.2...pkg_a-v2.0.3) (2025-07-30)
+
+
+### Bug Fixes
+
+* index ([8834827](https://github.com/neymanushka/monotest/commit/8834827083cdfe5c464b2f417e9c414e3449be51))
+
 ## [2.0.2](https://github.com/neymanushka/monotest/compare/pkg_a-v2.0.1...pkg_a-v2.0.2) (2025-07-30)
 
 
