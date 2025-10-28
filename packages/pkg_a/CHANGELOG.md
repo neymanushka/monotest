@@ -1,5 +1,22 @@
 # Changelog
 
+## [3.0.0](https://github.com/neymanushka/monotest/compare/pkg_a-v2.0.2...pkg_a-v3.0.0) (2025-10-28)
+
+
+### ⚠ BREAKING CHANGES
+
+* major up
+
+### Features
+
+* major up ([b8bd742](https://github.com/neymanushka/monotest/commit/b8bd7426ea175b6c64717d4d7644406ac5b7be10))
+
+
+### Bug Fixes
+
+* index ([8834827](https://github.com/neymanushka/monotest/commit/8834827083cdfe5c464b2f417e9c414e3449be51))
+* minor ([47b63a1](https://github.com/neymanushka/monotest/commit/47b63a1f6c8b58579f6d0069e12404344eaf6ef2))
+
 ## [2.0.2](https://github.com/neymanushka/monotest/compare/pkg_a-v2.0.1...pkg_a-v2.0.2) (2025-07-30)
 
 
